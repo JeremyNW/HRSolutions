@@ -1,3 +1,6 @@
+// Find the highest sum of an "hourglass" given a 6x6 array of integers
+
+
 func hourglassSum(arr: [[Int]]) -> Int {
     var largest = Int.min
     
